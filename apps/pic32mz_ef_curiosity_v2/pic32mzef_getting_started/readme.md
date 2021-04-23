@@ -20,6 +20,30 @@ nav_order: 1
 	500 milliseconds every time you press the switch SW1 on the Curiosity PIC32MZ EF 2.0 Development Board. Also, LED1
 	is toggled every time the temperature is displayed on the serial console.
 
+## Lists
+
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+viverra nec, fringilla in, laoreet vitae, risus.
+
+	second paragraph
+
+
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+
+second paragraph.Suspendisse id sem consectetuer libero luctus adipiscing.
+
+## Lists - 2 
+
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+ 
+    second paragraph
+
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+	second paragraph.Suspendisse id sem consectetuer libero luctus adipiscing.
+
 ## Modules/Technology Used:
 
 - Peripheral Modules      
